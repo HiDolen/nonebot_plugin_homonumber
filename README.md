@@ -4,7 +4,7 @@
 
 参考并移植自 [https://github.com/itorr/homo](https://github.com/itorr/homo)。
 
-## 恶臭数字论证器，
+## 恶臭数字论证器
 
 将任意数字分解成 114514 构成的公式。
 
@@ -14,7 +14,7 @@
 
 用法：
 
-```
+```shell
 homonumber 12345
 臭数字 67890
 ```
