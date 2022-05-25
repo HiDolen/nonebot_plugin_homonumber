@@ -1,0 +1,2 @@
+# nonebot_plugin_homonumber
+恶臭数字论证器插件，适配zhenxun_bot
